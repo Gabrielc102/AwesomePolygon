@@ -1,3 +1,3 @@
 # AwesomePolygon
 
-Web: https://gabrielc102.github.io/AwesomePolygon/
+Web: https://gabicordero.github.io/AwesomePolygon/
